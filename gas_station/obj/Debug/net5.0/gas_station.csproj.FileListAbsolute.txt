@@ -1,0 +1,348 @@
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\appsettings.json
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.exe
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.deps.json
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.runtimeconfig.json
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.runtimeconfig.dev.json
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ref\gas_station.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.Views.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\gas_station.Views.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Npgsql.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.csprojAssemblyReference.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.AssemblyInfoInputs.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.AssemblyInfo.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.csproj.CoreCompileInputs.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.RazorAssemblyInfo.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.RazorAssemblyInfo.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\staticwebassets\gas_station.StaticWebAssets.Manifest.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\staticwebassets\gas_station.StaticWebAssets.xml
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\scopedcss\bundle\gas_station.styles.css
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.TagHelpers.input.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.TagHelpers.output.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.RazorCoreGenerate.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.RazorTargetAssemblyInfo.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.RazorTargetAssemblyInfo.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.Views.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.csproj.CopyComplete
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\ref\gas_station.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.genruntimeconfig.cache
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Humanizer.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\gas_station.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Owin.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+C:\Users\khoda\source\repos\gas_station\gas_station\bin\Debug\net5.0\Owin.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\appsettings.Development.json
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\appsettings.json
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.exe
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.deps.json
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.runtimeconfig.json
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.runtimeconfig.dev.json
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ref\gas_station.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.Views.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\gas_station.Views.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Humanizer.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNet.Identity.Owin.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Web.Http.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Owin.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.Cookies.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.Owin.Security.OAuth.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Npgsql.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Owin.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.csprojAssemblyReference.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.AssemblyInfoInputs.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.AssemblyInfo.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.csproj.CoreCompileInputs.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.MvcApplicationPartsAssemblyInfo.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.MvcApplicationPartsAssemblyInfo.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.RazorAssemblyInfo.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.RazorAssemblyInfo.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\staticwebassets\gas_station.StaticWebAssets.Manifest.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\staticwebassets\gas_station.StaticWebAssets.xml
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\scopedcss\bundle\gas_station.styles.css
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.TagHelpers.input.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.TagHelpers.output.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.RazorCoreGenerate.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.RazorTargetAssemblyInfo.cache
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.RazorTargetAssemblyInfo.cs
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.Views.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.csproj.CopyComplete
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\ref\gas_station.dll
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.pdb
+D:\Лена\Универ\8 sem\gas_station_back\gas_station\obj\Debug\net5.0\gas_station.genruntimeconfig.cache
